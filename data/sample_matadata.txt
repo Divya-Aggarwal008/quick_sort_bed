@@ -1,0 +1,4 @@
+sample	runs
+X	a,b
+Y	a
+Z	b
